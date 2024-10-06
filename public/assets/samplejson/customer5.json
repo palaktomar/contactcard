@@ -1,0 +1,12 @@
+{
+	"id": 5 ,
+	"name": "Palak",
+	"email": "palak@test.com",
+	"phone": "198412345",
+	"city": "Chennai",
+	"state": "Tamil Nadu",
+	"country": "India",
+	"organization": "Netflix",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Have keen interest in analytics and creative field"
+}
